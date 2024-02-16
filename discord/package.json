@@ -1,0 +1,16 @@
+{
+  "name": "led-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^14.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
